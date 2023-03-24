@@ -1,0 +1,20 @@
+<h2>Параметры Backlash:</h2>
+<ul>
+	<li>BacklashWidth = 1.33</li>
+	<li>InitialOutput = 0.32</li>
+</ul>
+<h2>Параметры Sine Wave:</h2>
+<ul>
+	<li>Amplitude = 0.73</li>
+	<li>Frequency = 2.31</li>
+	<li>Bias = 0.43</li>
+	<li>Phase = 14.33</li>
+	<li>SampleTime = 0.0</li>
+</ul>
+<h2>Параметры Terminator:</h2>
+<ul>
+</ul>
+<h2>Параметры To CSV:</h2>
+<ul>
+	<li>FileName = backlash-1.csv</li>
+</ul>
